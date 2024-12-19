@@ -1,8 +1,10 @@
-4. Assignment 3: Task Management App
-4.1 Objective
+Assignment 3:
+
+Task Management App
+3.1 Objective
 This task management app is designed to provide users with an easy-to-use interface to manage tasks effectively. The app is divided into two main sections: All Tasks and Priority Section. The All Tasks section allows users to filter tasks based on their status, while the Priority Section helps in organizing tasks by their assigned priority level.
 
-4.2 Technologies Used
+3.2 Technologies Used
 1. Frontend
 •	React: A popular JavaScript library for building user interfaces. It was used to create interactive UI components for the app, such as the task list, filters, and pop-up forms.
 •	Next.js: A React framework used for server-side rendering and static site generation. It helps in creating a fast, SEO-friendly app, and also manages routing, making it easier to handle pages like the task list and pop-up form.
@@ -16,7 +18,7 @@ This task management app is designed to provide users with an easy-to-use interf
 •	JavaScript (ES6+): Modern JavaScript features like arrow functions, template literals, destructuring, and async/await were used throughout the app to ensure clean and efficient code.
 •	HTML5: For structuring the web page and ensuring semantic markup that is accessible and SEO-friendly.
 
-4.3 Features
+3.3 Features
 1. Welcome Message
 •	At the top of the screen, users are greeted with a Welcome Message that provides a friendly introduction to the app, such as "Welcome to Your Task Management Dashboard."
 2. All Tasks Section
